@@ -1,9 +1,17 @@
-<mxfile host="app.diagrams.net" modified="2023-08-22T18:31:55.770Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/116.0" version="21.6.9" etag="wiwfZNAjif99D6tFFmMP" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-22T18:38:31.317Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/116.0" etag="PTvHyjyW198pFxMbVV3Y" version="21.6.9" type="github">
   <diagram name="Página-1" id="aLW1Ijnp1n9mNWRd89W9">
-    <mxGraphModel>
+    <mxGraphModel dx="880" dy="462" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="AKomyB5M_KMYnB1ymFUx-1" value="&lt;p style=&quot;margin:0px;margin-top:6px;text-align:center;&quot;&gt;&lt;b&gt;Usuarios&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;+ nombre: String&lt;br&gt;+ email: String&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;+password: Integer&lt;br&gt;&lt;/p&gt;" style="align=left;overflow=fill;html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="280" y="60" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="AKomyB5M_KMYnB1ymFUx-2" value="" style="shape=component;jettyWidth=8;jettyHeight=4;" vertex="1" parent="AKomyB5M_KMYnB1ymFUx-1">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-24" y="4" as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
